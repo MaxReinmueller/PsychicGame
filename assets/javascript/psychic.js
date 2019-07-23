@@ -56,20 +56,3 @@ document.getElementById("gussesLefttxt").innerHTML = "Guesses left: " + gussesLe
 document.getElementById("YourguessesSoFartxt").innerHTML = "Your guesses so far: " + yourguessesSoFar;
 }
 
-// document.write("wins: " + wins);
-// document.write("losses: " + losses);
-// document.write("Guesses Left: " + gussesLeft);
-// document.write("Your guesses so far: " + YourguessesSoFar);
-// document.write("computer picks:" + compGuess);
-
-
-
-
-
-
-// Psudocode
-// 1. Assign variables that will be kept tracked of on the HTML page
-// 2. Write script for the computer to randomly guess a variable
-// 3. Script for user choice and to keep track of what they chose
-// 4. if statments to compare the user and computer variables
-// 5. script to log number of losses and wins
